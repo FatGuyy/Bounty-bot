@@ -1,5 +1,5 @@
 ## WIP
-
+#issue Solved
 # bounty-bot
 
 > A GitHub App built with [Probot](https://github.com/probot/probot) that A bot that dispatches event based on pr messages
