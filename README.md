@@ -1,6 +1,6 @@
 #Kaustubh was Here
 
-# bounty-bot
+# This is something new
 
 > A GitHub App built with [Probot](https://github.com/probot/probot) that A bot that dispatches event based on pr messages
 
